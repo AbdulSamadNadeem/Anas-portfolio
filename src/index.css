@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "logo_font";
+    src: url("/Fonts/Poppins-Regular.ttf");
+}
+@font-face {
+    font-family: "text_font";
+    src: url("/Fonts/Preahvihear-Regular.ttf");
+}
+body{
+    font-family: "text_font";
+}
